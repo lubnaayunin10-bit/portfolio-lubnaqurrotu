@@ -355,7 +355,7 @@ const WORKS = [
       b: [
         "Microblogging for moods and short notes"
       ],
-      img: "assets/foto-concept.jpg"
+      img: "assets/foto-moodnotes1.jpg"
     },
     {
       t: "Features", 
@@ -363,14 +363,7 @@ const WORKS = [
         "Create, read, update, delete posts",
         "Multi-user interaction"
       ],
-      img: "assets/foto-features.jpg"
-    },
-    {
-      t: "Role", 
-      b: [
-        "Developer, end-to-end"
-      ],
-      img: "assets/foto-role.jpg"
+      img: "assets/foto-moodnotes2.jpg"
     }
   ]
 },
